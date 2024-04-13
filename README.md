@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ThwDog
-- 👀 I’m interested in code and art
-- 🌱 I’m currently learning digital art
+- 👀 I’m interested in code
 - yeetttttt 🤯
 
 
