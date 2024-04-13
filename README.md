@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThwDog
-- 👀 I’m interested in code
+- 👀 I’m interested in code and VFX
 - yeetttttt 🤯
 
 
