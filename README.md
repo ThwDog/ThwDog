@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ThwDog
-- 👀 I’m interested in code and VFX
+- 👋 Hi, I’m @ThwDog im game Developer
+- 👀 I’m interested in code and VFX, sometime i do 3D.
 - yeetttttt 🤯
 
 
