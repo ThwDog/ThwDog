@@ -5,5 +5,5 @@ I occasionally dabble in 3D modeling, but I am not particularly skilled in it. M
 
 # Languages and Tools
 <img align="left" alt="Unity" width="70px" src = "https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg">
-<img align="left" alt="Unity" width="70px" src = "https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">
+<img align="left" alt="Unity" width="25px" src = "https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">
 
