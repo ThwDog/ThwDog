@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ThwDog im game Developer
-- 👀 I’m interested in code and VFX, sometime i do 3D.
-- yeetttttt 🤯
+# ThwDog 🐶
 
+Hello, my name is ThwDog. I am a video game developer and programmer. 
+I occasionally dabble in 3D modeling, but I am not particularly skilled in it. My primary interests lie in coding and VFX.
 
-<!---
-ThwDog/ThwDog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Languages and Tools
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AOfficial_unity_logo.png&psig=AOvVaw0NgDY-uQfziuHtF7Qn4kjl&ust=1715406889669000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDj0eOygoYDFQAAAAAdAAAAABAE">
+
