@@ -8,6 +8,9 @@ I occasionally dabble in 3D modeling, but I am not particularly skilled in it. M
       <a href="https://www.youtube.com/channel/UCpdbXTFPDhVD8iQnLJ2XjHw">
          <img alt="youtube Link" width = "100px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"/>    
       </a> 
+    <a href="https://www.youtube.com/@ThwDog_Work">
+         <img alt="youtube Link" width = "100px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"/>    
+      </a> 
   </p>
 
 # Languages and Tools
